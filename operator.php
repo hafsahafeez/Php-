@@ -61,6 +61,10 @@ $p=60;
 $status= $a >= 60?"p":"f";
  echo $status;
 
+ 
+ echo (" <br> <br> bitwise Operator <br>");
+ var_dump(97 << 1)
+
 
 ?>
 
